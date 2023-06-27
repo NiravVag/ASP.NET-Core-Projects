@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GettingStarted
+build_property.RootNamespace = GettingStarted
+build_property.ProjectDir = C:\Users\asusl\OneDrive\Desktop\Nirav\Project\My Old Projects\Best Practices\GettingStarted\GettingStarted\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asusl\OneDrive\Desktop\Nirav\Project\My Old Projects\Best Practices\GettingStarted\GettingStarted
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Courses/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDb3Vyc2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Courses/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGVDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Courses/DeleteCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGVDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Courses/EditCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0Q291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Courses/GetDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xHZXREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asusl/OneDrive/Desktop/Nirav/Project/My Old Projects/Best Practices/GettingStarted/GettingStarted/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
